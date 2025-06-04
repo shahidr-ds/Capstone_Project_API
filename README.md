@@ -25,18 +25,22 @@ Each Jupyter Notebook corresponds to a different phase of the project:
 
 * Performs SQL-based exploratory data analysis
 * Includes queries and result interpretation
+### 5. EDA\_Pandas.ipynb
 
-### 5. Folium\_Maps.ipynb
+* Performs PANDAS-based exploratory data analysis
+* Includes Visualisations 
+
+### 6. Folium\_Maps.ipynb
 
 * Creates interactive maps using Folium
 * Displays launch site locations and outcomes
 
-### 6. Plotly\_Dash.ipynb
+### 7. Plotly\_Dash.ipynb
 
 * Builds interactive dashboards for visual analysis
 * Includes filters, sliders, and summary plots
 
-### 7. Classification\_Model.ipynb
+### 8. Classification\_Model.ipynb
 
 * Develops and evaluates classification models
 * Compares Logistic Regression, SVM, Decision Tree, and KNN
