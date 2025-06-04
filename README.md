@@ -63,12 +63,12 @@ Each Jupyter Notebook corresponds to a distinct phase of the project:
 
 ## 📂 How to Use
 
-1. Clone this repository: `git clone https://github.com/shahidrasheed/Capstone-Project-SpaceXt`
+1. Clone this repository: `git clone https://github.com/shahidrasheed/Capstone-Project-SpaceX`
 2. Open and run the Jupyter Notebooks in order of the project flow
 
 ## 🔗 Repository Link
 
-**GitHub Repo:** [https://github.com/yourusername/spacex-project](https://github.com/shahidrasheed/spacex-project)
+**GitHub Repo:** [https://github.com/yourusername/spacex-project](https://github.com/shahidrasheed/Capstone-Project-SpaceX)
 
 Each notebook is self-contained and ready for peer review.
 
